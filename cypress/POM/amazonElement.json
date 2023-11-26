@@ -1,0 +1,7 @@
+{
+    "dropDownIdCss":"#searchDropdownBox",
+    "searchBarId":"#twotabsearchtextbox",
+    "headerText":".a-spacing-mini",
+    "headerTextSub":".a-truncate-cut"
+
+}
